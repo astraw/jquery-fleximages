@@ -1,7 +1,8 @@
 Package.describe({
   name: 'astraw:jquery-fleximages',
   summary: "Use Pixabay's jQuery-flexImages package in Meteor",
-  version: '0.0.1'
+  version: '0.0.1',
+  git: 'https://github.com/astraw/jquery-fleximages'
 });
 
 Package.onUse(function(api) {
